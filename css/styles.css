@@ -86,7 +86,8 @@ color: #404bbf
 .navigation{
 background-color: #FFFFFF;
 display: flex;
-align-items: center
+align-items: center;
+position: relative;
 }
 
 .nav-logo{
@@ -101,7 +102,6 @@ text-transform: uppercase;
 height: 24px;
 align-items: center;
 margin-right: 76px;
-position: relative;
 }
 
 .navigation-link{
