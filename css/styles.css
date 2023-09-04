@@ -234,6 +234,17 @@ background-color: #404BBF;
 display: flex;
 }
 
+.icon-container{
+width: 264px;
+height: 112px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #f4f4fd;
+border-radius: 4px;
+margin-bottom: 8px;
+}
+
 .advan-section{
 padding-top: 120px;
 padding-bottom: 120px;
