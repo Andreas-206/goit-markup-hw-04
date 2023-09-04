@@ -390,7 +390,7 @@ position: relative;
 overflow: hidden;
 }
 
-.overflow{
+.overlay{
 position: absolute;
 top: 0;
 font-size: 16px;
