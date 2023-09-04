@@ -296,6 +296,8 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .team-img-padding{
 padding-top: 32px;
 padding-bottom: 32px;
+width: 232px;
+height: 168px;
 }
 
 .team-container{
@@ -345,7 +347,13 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
+margin-bottom: 8px;
 }
+
+.social-list{
+display: flex;
+}
+
 
 /* Section 4 */
 
