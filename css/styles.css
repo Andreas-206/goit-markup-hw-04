@@ -481,15 +481,12 @@ display: flex;
 
 .allfoot-container{
 display: flex;
+align-items: baseline;
 margin: 0 auto;
 }
 
 .logo-footer-container{
 margin-right: 120px;
-}
-
-.footer-container{
-
 }
 
 .footer-list{
