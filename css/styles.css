@@ -413,11 +413,6 @@ row-gap: 48px;
 flex-wrap: wrap;
 }
 
-.portfolio-list-link:hover .overlay,
-.portfolio-list-link:focus .overlay{
-transform: translateY(0%);
-}
-
 .portfolio-section{
 padding-top: 120px;
 padding-bottom: 120px;
