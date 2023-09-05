@@ -479,8 +479,13 @@ padding-bottom: 100px;
 display: flex;
 }
 
-.logo-footer-container{
+.allfoot-container{
+display: flex;
+margin: 0 auto;
+}
 
+.logo-footer-container{
+margin-right: 120px;
 }
 
 .footer-container{
@@ -489,6 +494,9 @@ display: flex;
 
 .footer-list{
   display: flex;
+  gap: 16px;
+  width: 40px;
+  height: 40px;
 }
 
 .foot-logo{
@@ -544,4 +552,5 @@ letter-spacing: 0.02em;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 16px;
 }
