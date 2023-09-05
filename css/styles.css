@@ -390,6 +390,10 @@ position: relative;
 overflow: hidden;
 }
 
+.container-portfolio:hover .overlay{
+transform: translateY(0%);
+}
+
 .overlay{
 position: absolute;
 overflow: auto;
