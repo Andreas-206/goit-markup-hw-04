@@ -479,8 +479,12 @@ padding-bottom: 100px;
 display: flex;
 }
 
+.logo-footer-container{
+
+}
+
 .footer-container{
-/* display: flex; */
+
 }
 
 .footer-list{
